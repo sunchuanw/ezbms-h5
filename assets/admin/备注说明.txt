@@ -1,0 +1,1 @@
+layout和layout3主要用的里面的image,其他的css和js文件没有用到。
